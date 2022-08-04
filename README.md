@@ -1,7 +1,7 @@
 # SA-paper-statistics
 
 ## 仓库目录
-
+```
 │  generate_paper_list_with_arxiv_link.ipynb
 │  README.md
 │  word-cloud.ipynb
@@ -14,7 +14,7 @@
 │
 └─output
         output.txt
-
+```
 ## 仓库说明
 
 代码主要功能：
