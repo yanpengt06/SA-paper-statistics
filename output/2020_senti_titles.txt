@@ -1,0 +1,136 @@
+Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts
+Predicting the Topical Stance and Political Leaning of Media using Tweets
+CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation
+Code-Switching Patterns Can Be an Effective Route to Improve Performance of Downstream NLP Applications: A Case Study of Humour, Sarcasm and Hate Speech Detection
+Learning and Evaluating Emotion Lexicons for 91 Languages
+iSarcasm: A Dataset of Intended Sarcasm
+Will-They-Won′t-They: A Very Large Dataset for Stance Detection on Twitter
+Verbal Multiword Expressions for Identification of Metaphor
+Analyzing the Persuasive Effect of Style in News Editorial Argumentation
+ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction
+Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction
+Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge
+KinGDOM: Knowledge-Guided DOMain Adaptation for Sentiment Analysis
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis
+Relational Graph Attention Network for Aspect-based Sentiment Analysis
+Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization
+Aspect Sentiment Classification with Document-level Sentiment Preference Modeling
+Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis
+SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics
+Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction
+CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality
+Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis
+From Arguments to Key Points: Towards Automatic Argument Summarization
+GoEmotions: A Dataset of Fine-Grained Emotions
+SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis
+Joint Modelling of Emotion and Abusive Language Detection
+Target Inference in Argument Conclusion Generation
+Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis
+Towards Emotion-aided Multi-modal Dialogue Act Classification
+Modeling Label Semantics for Predicting Emotional Reactions
+Detecting Perceived Emotions in Hurricane Disasters
+Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity
+Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning
+Efficient Pairwise Annotation of Argument Quality
+A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks
+Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification
+R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge
+Multi-Sentence Argument Linking
+Detecting Attackable Sentences in Arguments
+Extracting Implicitly Asserted Propositions in Argumentation
+Quantitative argument summarization and beyond: Cross-domain key point analysis
+Unsupervised stance detection for arguments from consequences
+Condolence and Empathy in Online Communities
+An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets
+Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics
+A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression
+Position-Aware Tagging for Aspect Sentiment Triplet Extraction
+Reactive Supervision: A New Method for Collecting Sarcasm Data
+Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays
+Conditional Causal Relationships between Emotions and Causes in Texts
+Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis
+Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis
+Aspect Sentiment Classification with Aspect-Specific Opinion Spans
+Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme
+End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning
+Multi-modal Multi-label Emotion Detection with Modality and Label Dependence
+Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis
+Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder
+A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+Modeling Protagonist Emotions for Emotion-Aware Storytelling
+Inducing Target-Specific Latent Structures for Aspect Sentiment Classification
+Affective Event Classification with Discourse-enhanced Self-training
+Towards Persona-Based Empathetic Conversational Models
+A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis
+SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge
+Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding
+APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning
+Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification
+Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis
+Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations
+MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision
+CancerEmo: A Dataset for Fine-Grained Emotion Detection
+Exploring the Role of Argument Structure in Online Debate Persuasion
+Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations
+Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding
+EmoTag1200: Understanding the Association between Emojis and Emotions
+MIME: MIMicking Emotions for Empathetic Response Generation
+Appraisal Theories for Emotion Classification in Text
+A Symmetric Local Search Network for Emotion-Cause Pair Extraction
+Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis
+METNet: A Mutual Enhanced Transformation Network for Aspect-based Sentiment Analysis
+Making the Best Use of Review Summary for Sentiment Analysis
+From Sentiment Annotations to Sentiment Prediction through Discourse Augmentation
+End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network
+A Unified Sequence Labeling Model for Emotion Cause Pair Extraction
+Regrexit or not Regrexit: Aspect-based Sentiment Analysis in Polarized Contexts
+Affective and Contextual Embedding for Sarcasm Detection
+Understanding Pre-trained BERT for Aspect-based Sentiment Analysis
+Weighed Domain-Invariant Representation Learning for Cross-domain Sentiment Analysis
+Improving Sentiment Analysis over non-English Tweets using Multilingual Transformers and Automatic Translation for Data-Augmentation
+Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks
+Predicting Stance Change Using Modular Architectures
+SentiX: A Sentiment-Aware Pre-Trained Model for Cross-Domain Sentiment Analysis
+Bayes-enhanced Lifelong Attention Networks for Sentiment Classification
+Arabizi Language Models for Sentiment Analysis
+Author′s Sentiment Prediction
+Modeling Local Contexts for Joint Dialogue Act Recognition and Sentiment Classification with Bi-channel Dynamic Convolutions
+Identifying Depressive Symptoms from Tweets: Figurative Language Enabled Multitask Learning Framework
+Syntax-Aware Graph Attention Network for Aspect-Level Sentiment Classification
+Attention Transfer Network for Aspect-level Sentiment Classification
+Label Correction Model for Aspect-based Sentiment Analysis
+Aspect-Category based Sentiment Analysis with Hierarchical Graph Convolutional Network
+A Corpus for Argumentative Writing Support in German
+Building Large-Scale English and Korean Datasets for Aspect-Level Sentiment Analysis in Automotive Domain
+Financial Sentiment Analysis: An Investigation into Common Mistakes and Silver Bullets
+Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models
+SWAFN: Sentimental Words Aware Fusion Network for Multimodal Sentiment Analysis
+Multimodal Topic-Enriched Auxiliary Learning for Depression Detection
+Contextual Argument Component Classification for Class Discussions
+Sentiment Forecasting in Dialog
+Adapting a Language Model for Controlled Affective Text Generation
+``Judge me by my size (noun), do you?″ YodaLib: A Demographic-Aware Humor Generation Framework
+Autoregressive Affective Language Forecasting: A Self-Supervised Task
+Modality Enriched Neural Network for Metaphor Detection
+Emotion Classification by Jointly Learning to Lexiconize and Classify
+An analysis of language models for metaphor recognition
+An Iterative Emotion Interaction Network for Emotion Recognition in Conversations
+Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition
+HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations
+Lost in Back-Translation: Emotion Preservation in Neural Machine Translation
+Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer
+MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations
+EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation
+Rhetoric, Logic, and Dialectic: Advancing Theory-based Argument Quality Assessment in Natural Language Processing
+A Taxonomy of Empathetic Response Intents in Human Social Conversations
+Sentiment Analysis for Emotional Speech Synthesis in a News Dialogue System
+News Editorials: Towards Summarizing Long Argumentative Texts
+Argumentation Mining on Essays at Multi Scales
+Exploiting Narrative Context and A Priori Knowledge of Categories in Textual Emotion Classification
+Cross-Lingual Emotion Lexicon Induction using Representation Alignment in Low-Resource Settings
+Fact vs. Opinion: the Role of Argumentation Features in News Classification
+XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection
+Domain-Specific Sentiment Lexicons Induced from Labeled Documents
+Creation of Corpus and analysis in Code-Mixed Kannada-English Twitter data for Emotion Prediction
+Improving Document-Level Sentiment Analysis with User and Product Context
+Intrinsic Quality Assessment of Arguments

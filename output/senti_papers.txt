@@ -1,0 +1,297 @@
+automatic dialogue generation with expressed emotions
+knowledge-enriched two-layered attention network for sentiment analysis
+letting emotions flow: success prediction by modeling the flow of emotions in books
+modeling inter-aspect dependencies for aspect-based sentiment analysis
+recurrent entity networks with delayed memory update for targeted aspect-based sentiment analysis
+learning domain representation for multi-domain sentiment classification
+relevant emotion ranking from text constrained with emotion relationships
+solving data sparsity for aspect based sentiment analysis using cross-linguality and multi-linguality
+delete, retrieve, generate: a simple approach to sentiment and style transfer
+sentiment analysis: it′s complicated!
+word emotion induction for multiple languages as a deep multi-task learning problem
+human needs categorization of affective events using labeled and unlabeled data
+conversational memory network for emotion recognition in dyadic dialogue videos
+multi-task learning for multi-modal emotion recognition and sentiment analysis
+utilizing bert for aspect-based sentiment analysis via constructing auxiliary sentence
+a variational approach to weakly supervised document-level multi-aspect sentiment classification
+higru: hierarchical gated recurrent units for utterance-level emotion recognition
+learning bilingual sentiment-specific word embeddings without cross-lingual supervision
+combining sentiment lexica with a multi-view variational autoencoder
+frowning frodo, wincing leia, and a seriously great friendship: learning to classify emotional relationships of fictional characters
+multi-channel convolutional neural network for twitter emotion and sentiment recognition
+detecting depression in social media using fine-grained emotions
+bert post-training for review reading comprehension and aspect-based sentiment analysis
+adversarial category alignment network for cross-domain sentiment classification
+does syntax matter? a strong baseline for aspect-based sentiment analysis with roberta
+asap: a chinese review dataset towards aspect category sentiment analysis and rating prediction
+wrime: a new dataset for emotional intensity estimation with subjective and objective annotations
+muser: multimodal stress detection using emotion recognition as an auxiliary task
+domain adaptation for arabic cross-domain and cross-dialect sentiment analysis from contextualized word embedding
+multi-task learning of negation and speculation for targeted sentiment classification
+graph ensemble learning over multiple dependency trees for aspect-level sentiment classification
+emotion-infused models for explainable psychological stress detection
+aspect-based sentiment analysis with type-aware graph convolutional networks and layer ensemble
+grey-box adversarial attack and defence for sentiment classification
+seq2emo: a sequence to multi-label emotion classification model
+adapting bert for continual learning of a sequence of aspect sentiment classification tasks
+multitask learning for emotionally analyzing sexual abuse disclosures
+modeling human mental states with an entity-based narrative graph
+multimodal end-to-end sparse model for emotion recognition
+towards sentiment and emotion aided multi-modal speech act classification in twitter
+a robustly optimized bmrc for aspect sentiment triplet extraction
+empathic machines: using intermediate features as levers to emulate emotions in text-to-speech systems
+analyzing modality robustness in multimodal sentiment analysis
+beyond emotion: a multi-modal dataset for human desire understanding
+aspect is not you need: no-aspect differential sentiment framework for aspect-based sentiment analysis
+a shoulder to cry on: towards a motivational virtual assistant for assuaging mental agony
+multi-domain targeted sentiment analysis
+useridentifier: implicit user representations for simple and effective personalized sentiment analysis
+cogmen: contextualized gnn based multimodal emotion recognition
+ssegcn: syntactic and semantic enhanced graph convolutional network for aspect-based sentiment analysis
+compm: context modeling with speaker′s pre-trained memory tracking for emotion recognition in conversation
+a generative language model for few-shot aspect-based sentiment analysis
+a dual-channel framework for sarcasm recognition by detecting sentiment conflict
+clmlf:a contrastive learning and multi-layer fusion method for multimodal sentiment detection
+domain adapted word embeddings for improved sentiment classification
+construction of a chinese corpus for the analysis of the emotionality of metaphorical expressions
+exploiting document knowledge for aspect-level sentiment classification
+modeling sentiment association in discourse for humor recognition
+a multi-sentiment-resource enhanced attention network for sentiment classification
+pretraining sentiment classifiers with unlabeled dialog data
+transformation networks for target-oriented sentiment classification
+target-sensitive memory networks for aspect sentiment classification
+identifying transferable information across domains for cross-domain sentiment classification
+unpaired sentiment-to-sentiment translation: a cycled reinforcement learning approach
+mojitalk: generating emotional responses at scale
+sentiment adaptive end-to-end dialog systems
+multimodal affective analysis using hierarchical attention strategy with word-level alignment
+semaxis: a lightweight framework to characterize domain-specific word semantics beyond sentiment
+bilingual sentiment embeddings: joint projection of sentiment across languages
+learning domain-sensitive and sentiment-aware word embeddings
+cross-domain sentiment classification with target domain specific information
+aspect based sentiment analysis with gated convolutional networks
+a helping hand: transfer learning for deep sentiment analysis
+cold-start aware user and product attention for sentiment classification
+adversarial attention modeling for multi-dimensional emotion regression
+divide, conquer and combine: hierarchical feature fusion network with local and global perspectives for multimodal affective computing
+an interactive multi-task learning network for end-to-end aspect-based sentiment analysis
+meld: a multimodal multi-party dataset for emotion recognition in conversations
+open-domain targeted sentiment analysis via span-based extraction and classification
+transfer capsule network for aspect level sentiment classification
+progressive self-supervised attention learning for aspect-level sentiment analysis
+sentiment tagging with partial labels using modular architectures
+finding your voice: the linguistic development of mental health counselors
+multimodal and multi-view models for emotion recognition
+emotion-cause pair extraction: a new task to emotion analysis in texts
+deepsentipeer: harnessing sentiment in review texts to recommend peer review decisions
+towards fine-grained text sentiment transfer
+entity-centric contextual affective analysis
+a multilingual bpe embedding space for universal sentiment lexicon induction
+tree communication models for sentiment analysis
+improved sentiment detection via label transfer from monolingual to synthetic code-switched text
+aspect sentiment classification towards question-answering with reinforced bidirectional attention network
+generating responses with a specific emotion in dialog
+crowdsourcing and validating event-focused emotion corpora for german and english
+latent variable sentiment grammar
+an investigation of transfer learning-based sentiment analysis in japanese
+toward comprehensive understanding of a sentiment based on human motives
+context-aware embedding for targeted aspect-based sentiment analysis
+learning to control the fine-grained sentiment for story ending generation
+cdl: curriculum dual learning for emotion-controllable response generation
+learning and evaluating emotion lexicons for 91 languages
+ecpe-2d: emotion-cause pair extraction based on joint two-dimensional representation, interaction and prediction
+effective inter-clause modeling for end-to-end emotion-cause pair extraction
+enhancing cross-target stance detection with transferable semantic-emotion knowledge
+kingdom: knowledge-guided domain adaptation for sentiment analysis
+modelling context and syntactical features for aspect-based sentiment analysis
+relational graph attention network for aspect-based sentiment analysis
+aspect sentiment classification with document-level sentiment preference modeling
+relation-aware collaborative learning for unified aspect-based sentiment analysis
+sentibert: a transferable transformer-based architecture for compositional sentiment semantics
+transition-based directed graph construction for emotion-cause pair extraction
+ch-sims: a chinese multimodal sentiment analysis dataset with fine-grained annotation of modality
+adversarial and domain-aware bert for cross-domain sentiment analysis
+goemotions: a dataset of fine-grained emotions
+skep: sentiment knowledge enhanced pre-training for sentiment analysis
+joint modelling of emotion and abusive language detection
+sentiment and emotion help sarcasm? a multi-task learning framework for multi-modal sarcasm, sentiment and emotion analysis
+towards emotion-aided multi-modal dialogue act classification
+modeling label semantics for predicting emotional reactions
+detecting perceived emotions in hurricane disasters
+cross-lingual unsupervised sentiment classification with multi-view transfer learning
+a comprehensive analysis of preprocessing for word representation learning in affective tasks
+dependency graph enhanced dual-transformer structure for aspect-based sentiment classification
+emlm: a new pre-training objective for emotion related tasks
+deep context- and relation-aware learning for aspect-based sentiment analysis
+towards generative aspect-based sentiment analysis
+exploring the efficacy of automatically generated counterfactuals for sentiment analysis
+multimodal sentiment detection based on multi-channel graph neural networks
+aspect-category-opinion-sentiment quadruple extraction with implicit aspects and opinions
+directed acyclic graph network for conversational emotion recognition
+topic-driven and knowledge-aware transformer for dialogue emotion detection
+distributed representations of emotion categories in emotion space
+dynasent: a dynamic benchmark for sentiment analysis
+a unified generative framework for aspect-based sentiment analysis
+missing modality imagination network for emotion recognition with uncertain missing modalities
+position bias mitigation: a knowledge-aware graph model for emotion cause extraction
+structured sentiment analysis as dependency graph parsing
+towards emotional support dialog systems
+supporting cognitive and emotional empathic writing of students
+learning span-level interactions for aspect sentiment triplet extraction
+ctfn: hierarchical learning for multimodal sentiment analysis using coupled-translation fusion network
+mmgcn: multimodal fusion via deep graph convolution network for emotion recognition in conversation
+dual graph convolutional networks for aspect-based sentiment analysis
+dialoguecrn: contextual reasoning networks for emotion recognition in conversations
+hate speech detection based on sentiment knowledge sharing
+dnn-driven gradual machine learning for aspect-term sentiment analysis
+boundary detection with bert for span-level emotion cause analysis
+transsum: translating aspect and sentiment embeddings for self-supervised opinion summarization
+exploiting position bias for robust aspect sentiment classification
+jointly identifying rhetoric and implicit emotions via multi-task learning
+exploring the role of context in utterance-level emotion, act and intent classification in conversations: an empirical study
+semantic and syntactic enhanced aspect sentiment triplet extraction
+useradapter: few-shot user learning in sentiment analysis
+psyqa: a chinese dataset for generating long counseling text for mental health support
+dynamic and multi-channel graph convolutional networks for aspect-based sentiment analysis
+making flexible use of subtasks: a multiplex interaction network for unified aspect-based sentiment analysis
+an exploratory analysis of the relation between offensive language and mental health
+detecting domain polarity-changes of words in a sentiment lexicon
+multi-task learning and adapted knowledge models for emotion-cause extraction
+who blames or endorses whom? entity-to-entity directed sentiment extraction in news text
+modulating language models with emotions
+a text-centered shared-private framework via cross-modal prediction for multimodal sentiment analysis
+cross-domain review generation for aspect-based sentiment analysis
+automatically select emotion for response via personality-affected emotion transition
+direct parsing to sentiment graphs
+misc: a mixed strategy-aware model integrating comet for emotional support conversation
+discrete opinion tree induction for aspect-based sentiment analysis
+vision-language pre-training for multimodal aspect-based sentiment analysis
+adversarial soft prompt tuning for cross-domain sentiment analysis
+msctd: a multimodal sentiment chat translation dataset
+enhanced multi-channel graph convolutional network for aspect sentiment triplet extraction
+effective token graph modeling using a novel labeling strategy for structured sentiment analysis
+srl4e -- semantic role labeling for emotions: a unified evaluation framework
+m3ed: multi-modal multi-scene multi-label emotional dialogue database
+towards unifying the label space for aspect- and sentence-based sentiment analysis
+multi-granularity semantic aware graph model for reducing position bias in emotion cause pair extraction
+sentiment word aware multimodal refinement for multimodal sentiment analysis with asr errors
+emocaps: emotion capsule based model for conversational emotion recognition
+bisyn-gat+: bi-syntax aware graph attention network for aspect-based sentiment analysis
+seq2path: generating sentiment tuples as paths of a tree
+incorporating dynamic semantics into pre-trained language model for aspect-based sentiment analysis
+darer: dual-task temporal relational recurrent reasoning network for joint dialog sentiment classification and act recognition
+what is wrong with you?: leveraging user sentiment for automatic dialog evaluation
+personalized microblog sentiment classification via adversarial cross-lingual multi-task learning
+joint learning for emotion classification and emotion cause detection
+a syntactically constrained bidirectional-asynchronous approach for emotional conversation generation
+improving the results of string kernels in sentiment analysis and arabic dialect identification by adapting them to your test set
+parameterized convolutional neural networks for aspect level sentiment classification
+improving multi-label emotion classification via sentiment classification with dual attention transfer network
+learning sentiment memories for sentiment modification without parallel data
+joint aspect and polarity classification for aspect-based sentiment analysis with end-to-end neural networks
+syntactical analysis of the weaknesses of sentiment analyzers
+fine-grained emotion detection in health-related online posts
+icon: interactive conversational memory network for multimodal emotion detection
+iarm: inter-aspect relation modeling with memory networks in aspect-based sentiment analysis
+limbic: author-based sentiment aspect modeling regularized with word embeddings and discourse relations
+an interpretable neural network with topical information for relevant emotion ranking
+multi-grained attention network for aspect-level sentiment classification
+attentive gated lexicon reader with contrastive contextual co-attention for sentiment classification
+contextual inter-modal attention for multi-modal sentiment analysis
+adaptive semi-supervised learning for cross-domain sentiment classification
+identifying the sentiment styles of youtube′s vloggers
+sentiment classification towards question-answering with hierarchical matching network
+summarizing opinions: aspect extraction meets sentiment prediction and they are both weakly supervised
+carer: contextualized affect representations for emotion recognition
+joint learning for targeted sentiment analysis
+revisiting the importance of encoding logic rules in sentiment classification
+a co-attention neural network model for emotion cause analysis with emotional context awareness
+dialoguegcn: a graph convolutional neural network for emotion recognition in conversation
+knowledge-enriched transformer for emotion detection in textual conversations
+interpretable relevant emotion ranking with event-driven attention
+machine translation for machines: the sentiment classification use case
+modelling the interplay of metaphor and emotion through multitask learning
+predicting discourse structure using distant supervision from sentiment
+keep calm and switch on! preserving sentiment and fluency in semantic text exchange
+recognizing conflict opinions in aspect-level sentiment classification with dual attention networks
+investigating dynamic routing in tree-structured lstm for sentiment analysis
+text emotion distribution learning from small sample: a meta-learning approach
+aspect-based sentiment classification with aspect-specific graph convolutional networks
+transferable end-to-end aspect-based sentiment analysis with selective adversarial learning
+can: constrained attention networks for multi-aspect sentiment analysis
+text-based inference of moral sentiment change
+syntax-aware aspect level sentiment classification with graph attention networks
+learning explicit and implicit structures for targeted sentiment analysis
+capsule network with interactive attention for aspect-level sentiment classification
+emotion detection with neural personal discrimination
+specificity-driven cascading approach for unsupervised sentiment modification
+lexicalat: lexical-based adversarial reinforcement training for robust sentiment classification
+leveraging structural and semantic correspondence for attribute-oriented aspect sentiment discovery
+shallow domain adaptive embeddings for sentiment analysis
+domain-invariant feature distillation for cross-domain sentiment classification
+a novel aspect-guided deep transition model for aspect based sentiment analysis
+human-like decision making: document-level aspect sentiment classification via hierarchical reinforcement learning
+rethinking attribute representation and injection for sentiment classification
+a knowledge regularized hierarchical approach for emotion cause analysis
+context-aware interactive attention for multi-modal sentiment and emotion analysis
+aspect-level sentiment analysis via convolution over dependency tree
+minimally supervised learning of affective events using discourse relations
+a challenge dataset and effective models for aspect-based sentiment analysis
+learning with noisy labels for sentence-level sentiment classification
+dens: a dataset for multi-class emotion analysis
+multi-task stance detection with sentiment and stance lexicons
+learning to flip the sentiment of reviews from non-parallel corpora
+an embedding model for estimating legislative preferences from the frequency and sentiment of tweets
+hashtags, emotions, and comments: a large-scale dataset to understand fine-grained social emotions to online topics
+position-aware tagging for aspect sentiment triplet extraction
+conditional causal relationships between emotions and causes in texts
+convolution over hierarchical syntactic and lexical graphs for aspect level sentiment analysis
+multi-instance multi-label learning networks for aspect-category sentiment analysis
+aspect sentiment classification with aspect-specific opinion spans
+emotion-cause pair extraction as sequence labeling based on a novel tagging scheme
+end-to-end emotion-cause pair extraction based on sliding window multi-label learning
+multi-modal multi-label emotion detection with modality and label dependence
+tasty burgers, soggy fries: probing aspect robustness in aspect-based sentiment analysis
+public sentiment drift analysis based on hierarchical variational auto-encoder
+a computational approach to understanding empathy expressed in text-based mental health support
+modeling protagonist emotions for emotion-aware storytelling
+inducing target-specific latent structures for aspect sentiment classification
+affective event classification with discourse-enhanced self-training
+a multi-task incremental learning framework with category name embedding for aspect-category sentiment analysis
+sentilare: sentiment-aware language representation learning with linguistic knowledge
+weakly-supervised aspect-based sentiment analysis via joint aspect-sentiment topic embedding
+diversified multiple instance learning for document-level multi-aspect sentiment classification
+unified feature and instance based domain adaptation for aspect-based sentiment analysis
+relation-aware graph attention networks with relational position encodings for emotion recognition in conversations
+mega rst discourse treebanks with structure and nuclearity from scalable distant sentiment supervision
+canceremo: a dataset for fine-grained emotion detection
+sentiment analysis of tweets using heterogeneous multi-layer network representation and embedding
+emotag1200: understanding the association between emojis and emotions
+mime: mimicking emotions for empathetic response generation
+beta distribution guided aspect-aware graph for aspect category sentiment analysis with affective knowledge
+learning implicit sentiment in aspect-based sentiment analysis with supervised contrastive pre-training
+reinforced counterfactual data augmentation for dual sentiment classification
+perspective-taking and pragmatics for generating empathetic responses focused on emotion causes
+multimodal phased transformer for sentiment analysis
+seeking common but distinguishing difference, a joint aspect-based sentiment analysis model
+emotion inference in multi-turn conversations with addressee-aware module and ensemble strategy
+improving federated learning for aspect-based sentiment analysis via topic memories
+dimensional emotion detection from categorical emotion
+joint multi-modal aspect-sentiment analysis with auxiliary cross-modal relation detection
+solving aspect category sentiment analysis as a text generation task
+semantics-preserved data augmentation for aspect-based sentiment analysis
+the effect of round-trip translation on fairness in sentiment analysis
+open aspect target sentiment classification with natural language prompts
+powering comparative classification with sentiment analysis via domain adaptive knowledge transfer
+few-shot emotion recognition in conversation with sequential prototypical networks
+classic: continual and contrastive learning of aspect sentiment classification tasks
+implicit sentiment analysis with event-centered text representation
+nb-mlm: efficient domain adaptation of masked language models for sentiment analysis
+yaso: a targeted sentiment analysis evaluation dataset for open-domain reviews
+improving multimodal fusion with hierarchical mutual information maximization for multimodal sentiment analysis
+bert4gcn: using bert intermediate layers to augment gcn for aspect-based sentiment classification
+aspect sentiment quad prediction as paraphrase generation
+cross-lingual aspect-based sentiment analysis with aspect term code-switching
+towards label-agnostic emotion embeddings
+paste: a tagging-free decoding framework using pointer networks for aspect sentiment triplet extraction
+guilt by association: emotion intensities in lexical representations

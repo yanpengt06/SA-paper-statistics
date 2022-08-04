@@ -1,0 +1,69 @@
+Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension
+Morphological Reinflection with Multiple Arguments: An Extended Annotation schema and a Georgian Case Study
+Direct parsing to sentiment graphs
+JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection
+Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems
+MISC: A Mixed Strategy-Aware Model integrating COMET for Emotional Support Conversation
+Multi-Modal Sarcasm Detection via Cross-Modal Graph Convolutional Network
+Metaphors in Pre-Trained Language Models: Probing and Generalization Across Datasets and Languages
+Discrete Opinion Tree Induction for Aspect-based Sentiment Analysis
+Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis
+IAM: A Comprehensive and Large-Scale Dataset for Integrated Argument Mining Tasks
+Adversarial Soft Prompt Tuning for Cross-Domain Sentiment Analysis
+MSCTD: A Multimodal Sentiment Chat Translation Dataset
+A Taxonomy of Empathetic Questions in Social Dialogs
+Enhanced Multi-Channel Graph Convolutional Network for Aspect Sentiment Triplet Extraction
+ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection
+Incorporating Stock Market Signals for Twitter Stance Detection
+Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis
+Identifying the Human Values behind Arguments
+SRL4E -- Semantic Role Labeling for Emotions: A Unified Evaluation Framework
+Probing for Predicate Argument Structures in Pretrained Language Models
+Dynamic Global Memory for Document-level Argument Extraction
+Reports of personal experiences and stories in argumentation: datasets and analysis
+Predicate-Argument Based Bi-Encoder for Paraphrase Identification
+M3ED: Multi-modal Multi-scene Multi-label Emotional Dialogue Database
+When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues
+Neural reality of argument structure constructions
+Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation
+Can Unsupervised Knowledge Transfer from Social Discussions Help Argument Mining?
+Fair and Argumentative Language Modeling for Computational Argumentation
+Multimodal Sarcasm Target Identification in Tweets
+Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires
+Modeling Persuasive Discourse to Adaptively Support Students′ Argumentative Writing
+The Moral Debater: A Study on the Computational Generation of Morally Framed Arguments
+Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis
+Efficient Argument Structure Extraction with Transfer Learning and Active Learning
+Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction
+Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors
+EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition
+BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis
+Seq2Path: Generating Sentiment Tuples as Paths of a Tree
+From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains
+Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis
+DARER: Dual-task Temporal Relational Recurrent Reasoning Network for Joint Dialog Sentiment Classification and Act Recognition
+What is wrong with you?: Leveraging User Sentiment for Automatic Dialog Evaluation
+A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction
+Empathic Machines: Using Intermediate Features as Levers to Emulate Emotions in Text-To-Speech Systems
+Analyzing Modality Robustness in Multimodal Sentiment Analysis
+AmbiPun: Generating Humorous Puns with Ambiguous Context
+EmpHi: Generating Empathetic Responses with Human-like Intents
+Beyond Emotion: A Multi-Modal Dataset for Human Desire Understanding
+Disentangled Learning of Stance and Aspect Topics for Vaccine Attitude Detection in Social Media
+Aspect Is Not You Need: No-aspect Differential Sentiment Framework for Aspect-based Sentiment Analysis
+MuCPAD: A Multi-Domain Chinese Predicate-Argument Dataset
+Combining Humor and Sarcasm for Improving Political Parody Detection
+A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony
+Multi-Domain Targeted Sentiment Analysis
+UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis
+Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances
+COGMEN: COntextualized GNN based Multimodal Emotion recognitioN
+SSEGCN: Syntactic and Semantic Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis
+Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy
+CoMPM: Context Modeling with Speaker′s Pre-trained Memory Tracking for Emotion Recognition in Conversation
+A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis
+Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems
+A Survey on Stance Detection for Mis- and Disinformation Identification
+POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection
+A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict
+CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection

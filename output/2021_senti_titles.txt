@@ -1,0 +1,132 @@
+Uncertainty and Surprisal Jointly Deliver the Punchline: Exploiting Incongruity-Based Features for Humor Recognition
+eMLM: A New Pre-training Objective for Emotion Related Tasks
+Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis
+Towards Generative Aspect-Based Sentiment Analysis
+Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis
+Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks
+Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions
+Towards Argument Mining for Social Good: A Survey
+Directed Acyclic Graph Network for Conversational Emotion Recognition
+Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection
+Syntopical Graphs for Computational Argumentation Tasks
+Stance Detection in COVID-19 Tweets
+Distributed Representations of Emotion Categories in Emotion Space
+DynaSent: A Dynamic Benchmark for Sentiment Analysis
+A Unified Generative Framework for Aspect-based Sentiment Analysis
+Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities
+MultiMET: A Multimodal Dataset for Metaphor Understanding
+Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction
+Structured Sentiment Analysis as Dependency Graph Parsing
+Towards Emotional Support Dialog Systems
+Exploring Discourse Structures for Argument Impact Classification
+Supporting Cognitive and Emotional Empathic Writing of Students
+Verb Metaphor Detection via Contextual Relation Learning
+Employing Argumentation Knowledge Graphs for Neural Argument Generation
+Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction
+CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network
+MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation
+Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis
+Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding
+A Neural Transition-based Model for Argumentation Mining
+Metaphor Generation with Conceptual Mappings
+ConvoSumm: Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining
+DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations
+Hate Speech Detection Based on Sentiment Knowledge Sharing
+DNN-driven Gradual Machine Learning for Aspect-term Sentiment Analysis
+Boundary Detection with BERT for Span-level Emotion Cause Analysis
+TransSum: Translating Aspect and Sentiment Embeddings for Self-Supervised Opinion Summarization
+CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation
+Enhanced Metaphor Detection via Incorporation of External Knowledge Based on Linguistic Theories
+Exploiting Position Bias for Robust Aspect Sentiment Classification
+Jointly Identifying Rhetoric and Implicit Emotions via Multi-Task Learning
+Exploring the Role of Context in Utterance-level Emotion, Act and Intent Classification in Conversations: An Empirical Study
+Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction
+UserAdapter: Few-Shot User Learning in Sentiment Analysis
+PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support
+Counter-Argument Generation by Attacking Weak Premises
+Deciphering Implicit Hate: Evaluating Automated Detection Algorithms for Multimodal Hate
+Enhancing Metaphor Detection by Gloss-based Interpretations
+Leveraging Argumentation Knowledge Graph for Interactive Argument Pair Identification
+A Multi-Task Learning Framework for Multi-Target Stance Detection
+P-Stance: A Large Dataset for Stance Detection in Political Domain
+Dynamic and Multi-Channel Graph Convolutional Networks for Aspect-Based Sentiment Analysis
+Making Flexible Use of Subtasks: A Multiplex Interaction Network for Unified Aspect-based Sentiment Analysis
+Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph
+Generating Informative Conclusions for Argumentative Texts
+An Exploratory Analysis of the Relation between Offensive Language and Mental Health
+Detecting Domain Polarity-Changes of Words in a Sentiment Lexicon
+Multi-Task Learning and Adapted Knowledge Models for Emotion-Cause Extraction
+Who Blames or Endorses Whom? Entity-to-Entity Directed Sentiment Extraction in News Text
+Modulating Language Models with Emotions
+Leveraging Topic Relatedness for Argument Persuasion
+A Text-Centered Shared-Private Framework via Cross-Modal Prediction for Multimodal Sentiment Analysis
+Cross-Domain Review Generation for Aspect-Based Sentiment Analysis
+Automatically Select Emotion for Response via Personality-affected Emotion Transition
+Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge
+Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training
+Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification
+(Mis)alignment Between Stance Expressed in Social Media Data and Public Opinion Surveys
+Latent Hatred: A Benchmark for Understanding Implicit Hate Speech
+A Large-Scale Dataset for Empathetic Response Generation
+Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes
+Multimodal Phased Transformer for Sentiment Analysis
+Label-Enhanced Hierarchical Contextualized Representation for Sequential Metaphor Identification
+CATE: A Contrastive Pre-trained Model for Metaphor Detection with Semi-supervised Learning
+Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model
+Argument Pair Extraction with Mutual Guidance and Inter-sentence Relation Graph
+Emotion Inference in Multi-Turn Conversations with Addressee-Aware Module and Ensemble Strategy
+Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories
+Dimensional Emotion Detection from Categorical Emotion
+Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection
+Solving Aspect Category Sentiment Analysis as a Text Generation Task
+Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis
+The Effect of Round-Trip Translation on Fairness in Sentiment Analysis
+CHoRaL: Collecting Humor Reaction Labels from Millions of Social Media Users
+Just Say No: Analyzing the Stance of Neural Dialogue Generation in Offensive Contexts
+Human Rationales as Attribution Priors for Explainable Stance Detection
+Open Aspect Target Sentiment Classification with Natural Language Prompts
+Improving Stance Detection with Multi-Dataset Learning and Knowledge Distillation
+Hitting your MARQ: Multimodal ARgument Quality Assessment in Long Debate Video
+Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer
+Tribrid: Stance Classification with Neural Inconsistency Detection
+Few-Shot Emotion Recognition in Conversation with Sequential Prototypical Networks
+CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks
+Implicit Sentiment Analysis with Event-centered Text Representation
+Cross-Domain Label-Adaptive Stance Detection
+NB-MLM: Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis
+YASO: A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews
+Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis
+BERT4GCN: Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification
+Aspect Sentiment Quad Prediction as Paraphrase Generation
+Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching
+Towards Label-Agnostic Emotion Embeddings
+PASTE: A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction
+Guilt by Association: Emotion Intensities in Lexical Representations
+On Classifying whether Two Texts are on the Same Side of an Argument
+Aspect-Controlled Neural Argument Generation
+MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories
+Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa
+Target-Aware Data Augmentation for Stance Detection
+ASAP: A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction
+WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations
+MUSER: MUltimodal Stress detection using Emotion Recognition as an Auxiliary Task
+Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding
+Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification
+Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification
+Emotion-Infused Models for Explainable Psychological Stress Detection
+Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble
+tWT--WT: A Dataset to Assert the Role of Target Entities for Detecting Stance of Tweets
+Grey-box Adversarial Attack And Defence For Sentiment Classification
+MERMAID: Metaphor Generation with Symbolism and Discriminative Decoding
+Recent advances in neural metaphor processing: A linguistic, cognitive and social perspective
+Seq2Emo: A Sequence to Multi-Label Emotion Classification Model
+Knowledge Enhanced Masked Language Model for Stance Detection
+Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks
+Adversarial Learning for Zero-Shot Stance Detection on Social Media
+Multitask Learning for Emotionally Analyzing Sexual Abuse Disclosures
+Modeling Human Mental States with an Entity-based Narrative Graph
+ENTRUST: Argument Reframing with Language Models and Entailment
+Multimodal End-to-End Sparse Model for Emotion Recognition
+Latent-Optimized Adversarial Neural Transfer for Sarcasm Detection
+Discrete Argument Representation Learning for Interactive Argument Pair Identification
+Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter

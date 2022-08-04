@@ -1,0 +1,113 @@
+Adversarial Attention Modeling for Multi-dimensional Emotion Regression
+Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing
+An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis
+Decompositional Argument Mining: A General Purpose Approach for Argument Graph Construction
+MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations
+Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification
+Transfer Capsule Network for Aspect Level Sentiment Classification
+Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis
+Classification and Clustering of Arguments with Contextualized Word Embeddings
+Sentiment Tagging with Partial Labels using Modular Architectures
+A Corpus for Modeling User and Language Effects in Argumentation on Online Debating
+Finding Your Voice: The Linguistic Development of Mental Health Counselors
+Multimodal and Multi-view Models for Emotion Recognition
+Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts
+Argument Invention from First Principles
+DeepSentiPeer: Harnessing Sentiment in Review Texts to Recommend Peer Review Decisions
+Towards Fine-grained Text Sentiment Transfer
+Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model
+Entity-Centric Contextual Affective Analysis
+Argument Generation with Retrieval, Planning, and Realization
+Exploring Author Context for Detecting Intended vs Perceived Sarcasm
+A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction
+Tree Communication Models for Sentiment Analysis
+Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text
+Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network
+Generating Responses with a Specific Emotion in Dialog
+End-to-End Sequential Metaphor Identification Inspired by Linguistic Theories
+Crowdsourcing and Validating Event-focused Emotion Corpora for German and English
+Large Dataset and Language Model Fun-Tuning for Humor Recognition
+Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)
+Determining Relative Argument Specificity and Stance for Complex Argumentative Structures
+Latent Variable Sentiment Grammar
+An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese
+Probing Neural Network Comprehension of Natural Language Arguments
+Toward Comprehensive Understanding of a Sentiment Based on Human Motives
+Context-aware Embedding for Targeted Aspect-based Sentiment Analysis
+Yes, we can! Mining Arguments in 50 Years of US Presidential Campaign Debates
+An Empirical Study of Span Representations in Argumentation Structure Parsing
+Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations
+Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset
+Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning
+Learning to Control the Fine-grained Sentiment for Story Ending Generation
+MoEL: Mixture of Empathetic Listeners
+DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation
+Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations
+Interpretable Relevant Emotion Ranking with Event-Driven Attention
+Machine Translation for Machines: the Sentiment Classification Use Case
+UR-FUNNY: A Multimodal Language Dataset for Understanding Humor
+Modelling the interplay of metaphor and emotion through multitask learning
+Predicting Discourse Structure using Distant Supervision from Sentiment
+Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange
+What Gets Echoed? Understanding the ``Pointers″ in Explanations of Persuasive Arguments
+Modeling Frames in Argumentation
+AMPERSAND: Argument Mining for PERSuAsive oNline Discussions
+Recognizing Conflict Opinions in Aspect-level Sentiment Classification with Dual Attention Networks
+Investigating Dynamic Routing in Tree-Structured LSTM for Sentiment Analysis
+Humor Detection: A Transformer Gets the Last Laugh
+Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach
+Contrastive Language Adaptation for Cross-Lingual Stance Detection
+Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks
+Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning
+CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis
+Text-based inference of moral sentiment change
+Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+Capturing Argument Interaction in Semantic Role Labeling with Capsule Networks
+Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
+Learning Explicit and Implicit Structures for Targeted Sentiment Analysis
+Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification
+Emotion Detection with Neural Personal Discrimination
+Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification
+LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification
+Leveraging Structural and Semantic Correspondence for Attribute-Oriented Aspect Sentiment Discovery
+Shallow Domain Adaptive Embeddings for Sentiment Analysis
+Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification
+A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis
+Human-Like Decision Making: Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning
+Rethinking Attribute Representation and Injection for Sentiment Classification
+A Knowledge Regularized Hierarchical Approach for Emotion Cause Analysis
+Automatic Argument Quality Assessment - New Datasets and Methods
+Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis
+The Role of Pragmatic and Discourse Context in Determining Argument Impact
+Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree
+Minimally Supervised Learning of Affective Events Using Discourse Relations
+Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension
+A Modular Architecture for Unsupervised Sarcasm Generation
+A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis
+Learning with Noisy Labels for Sentence-level Sentiment Classification
+DENS: A Dataset for Multi-class Emotion Analysis
+Multi-Task Stance Detection with Sentiment and Stance Lexicons
+Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora
+A deep-learning framework to detect sarcasm targets
+Incorporating Label Dependencies in Multilabel Stance Detection
+Embedding Lexical Features via Tensor Decomposition for Small Sample Humor Recognition
+Telling the Whole Story: A Manually Annotated Chinese Dataset for the Analysis of Humor in Jokes
+STANCY: Stance Classification Based on Consistency Cues
+``President Vows to Cut \textlessTaxes\textgreater Hair″: Dataset and Analysis of Creative Text Editing for Humorous Headlines
+Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis
+Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence
+A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification
+HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition
+Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision
+Learning Outside the Box: Discourse-level Features Improve Metaphor Identification
+Combining Sentiment Lexica with a Multi-View Variational Autoencoder
+Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters
+How to Avoid Sentences Spelling Boring? Towards a Neural Approach to Unsupervised Metaphor Generation
+Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition
+Detecting Depression in Social Media using Fine-Grained Emotions
+A Streamlined Method for Sourcing Discourse-level Argumentation Annotations from the Crowd
+Tweet Stance Detection Using an Attention based Neural Ensemble Model
+Argument Mining for Understanding Peer Reviews
+BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
+Adversarial Category Alignment Network for Cross-domain Sentiment Classification
+Multi-Task Learning for Japanese Predicate Argument Structure Analysis
