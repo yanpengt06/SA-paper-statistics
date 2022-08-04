@@ -24,6 +24,12 @@
 3. 统计SA领域近五年关键词频率分布，据此绘制word-cloud图
 4. 用前一年的逆词频进行加权，调整词频分布，以体现新研究方向，绘制word-cloud图
 
+注：默认图片输出目录figure，输入输出文件目录均为根目录，代码未修改为data, output目录
+
+2022年SA领域关键词词云：
+
+![2022sa-wordcloud](/figure/2022sa-wordcloud.png)
+
 ## 鸣谢
 
 主要参考roomylee's [nlp-papers-with-arxiv](https://github.com/roomylee/nlp-papers-with-arxiv)
